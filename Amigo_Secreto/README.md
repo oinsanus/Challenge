@@ -13,3 +13,10 @@ Três pontos essenciais são levados em consideração:
 
 
 ![pagina de abertura](assets/image_index.png)
+
+### Resultado:
+
+https://github.com/user-attachments/assets/0d7f4cb3-9d8e-4d1c-beb7-5ce7810d1238
+
+
+
