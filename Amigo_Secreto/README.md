@@ -8,11 +8,11 @@ O Desafio proposto busca através dos conceitos básicos de lógica de programa�
 Três pontos essenciais são levados em consideração:
 * Três funções diferentes para permitir o correto fluxo programa.
 * Impedir que a lista acumule nomes de sorteios anteriores.
-* Sortear de maneira aleatória os nomes armazenados.\\
+* Sortear de maneira aleatória os nomes armazenados.  
 
 
 
-![pagina de abertura](assets/image_index.png)\\
+![pagina de abertura](assets/image_index.png)  
 
 ### Resultado:
 
