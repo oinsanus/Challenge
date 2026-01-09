@@ -9,3 +9,7 @@ Três pontos essenciais são levados em consideração:
 * Três funções difenretes para permitir o correto fluxo do aplicativo
 * Impedir que a lista acumule nomes de sorteios anteriores
 * Sortear de maneira aleatória os nomes armazenados
+
+
+
+![pagina de abertura](assets/image_index.png)
