@@ -11,29 +11,37 @@ function adicionarAmigo() {
     let nome = input.value;
 
     if (nome == "") {
-        alert("Adicione um nome válido");
+        alert("Por favor, insira um nome.");
         
     } else {
-        let novaLi = document.createElement('li');
-
-        novaLi.innerHTML = nome;
-        lista.appendChild(novaLi);
         amigos.push(nome);
+        atualizaLista();
+        input.value = "";  
+    } 
+}
 
-        input.value = null;
-        
-    }
-    
+function atualizaLista() {
+    lista.innerHTML = '';
+    for (let i = 0;i < amigos.length; i++) {
+        let novaLi = document.createElement('li');
+        novaLi.innerHTML = amigos[i];
+        lista.appendChild(novaLi);
+    } 
 }
 
 function sortearAmigo() {
-    lista.innerHTML = "";
+    if (amigos.length !== 0) {
+        lista.innerHTML = "";
 
-    let escolha = document.createElement('li');
-    let tamanho = amigos.length;
-    let numeroA =  Math.floor(Math.random() * tamanho);
-    let escolhido = amigos[numeroA]
-    escolha.innerHTML = escolhido;
-    sorteio.appendChild(escolha);
-    amigos.length = 0;
+        let escolha = document.createElement('li');
+        let tamanho = amigos.length;
+        let numeroA =  Math.floor(Math.random() * tamanho);
+        let escolhido = amigos[numeroA];
+
+        escolha.innerHTML = escolhido;
+        sorteio.append("O amigo sorteado foi: ");
+        sorteio.appendChild(escolha);
+        amigos.length = 0;
+    }
+    
 }
