@@ -12,4 +12,4 @@ Três pontos essenciais são levados em consideração:
 
 
 
-![pagina de abertura](Amigo_Secreto/assets/image_index.png)
+![pagina de abertura](assets/image_index.png)
