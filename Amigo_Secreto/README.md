@@ -6,13 +6,13 @@ Introdução:
 O Desafio proposto busca através dos conceitos básicos de lógica de programação obter um nome sorteado de modo aleatório com base em uma lista de amigos digitados.
 
 Três pontos essenciais são levados em consideração:
-* Três funções difenretes para permitir o correto fluxo do aplicativo
-* Impedir que a lista acumule nomes de sorteios anteriores
-* Sortear de maneira aleatória os nomes armazenados
+* Três funções diferentes para permitir o correto fluxo programa.
+* Impedir que a lista acumule nomes de sorteios anteriores.
+* Sortear de maneira aleatória os nomes armazenados.\\
 
 
 
-![pagina de abertura](assets/image_index.png)
+![pagina de abertura](assets/image_index.png)\\
 
 ### Resultado:
 
