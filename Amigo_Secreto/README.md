@@ -16,7 +16,8 @@ Três pontos essenciais são levados em consideração:
 
 ### Resultado:
 
-https://github.com/user-attachments/assets/0d7f4cb3-9d8e-4d1c-beb7-5ce7810d1238
+https://github.com/user-attachments/assets/a7d0b5d9-c895-4267-b52e-289fbdc3341e
+
 
 
 
